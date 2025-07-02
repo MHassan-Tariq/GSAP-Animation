@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: black;
+
+}
+#string{
+    height: 200px;
+    width: 100%;
+    /* background-color: brown; */
+    /* margin-left: 100px; */
+}
